@@ -1,4 +1,4 @@
-The Quick Clone React Frontend project includes the following features:
+The Zayka Express Frontend project includes the following features:
 
 Landing Page:
 
